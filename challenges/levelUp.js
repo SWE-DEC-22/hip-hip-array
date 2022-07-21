@@ -6,7 +6,7 @@
  */
 
 function levelUp (arr) {
-  // code here
+  return arr.reduce((s, x, i) => s += i * x, 0)
 }
 
 module.exports = { levelUp }
