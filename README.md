@@ -6,8 +6,8 @@
 
 In order to display your badge:
  1. replace both occurences of `swe-resources-room` in the above with your own GitHub username
- 1. Make sure to click **Actions** in the menu above and enable actions for your fork
- 1. Once you push your code, if all tests pass, you'll get a green badge :D
+ 1. Make sure to click **Actions** in the github.com menu and enable actions for your fork
+ 1. Once you push your code, if all tests pass, you'll get a green badge :trophy:
 
 ## Instructions
 
@@ -19,4 +19,4 @@ You should find lots of failing tests. Now you can go c`[]`zy solving all of the
 
 You're a wizard, `[]`!
 
-Good luck :D
+Good luck :four_leaf_clover:
