@@ -1,14 +1,5 @@
 # Hip hip array
 
-## Status
-
-[![Tests](https://github.com/swe-resources-room/hip-hip-array/actions/workflows/jest.yaml/badge.svg?event=push)](https://github.com/swe-resources-room/hip-hip-array/actions/workflows/jest.yaml)
-
-In order to display your badge:
- 1. replace both occurences of `swe-resources-room` in the above with your own GitHub username
- 1. Make sure to click **Actions** in the github.com menu and enable actions for your fork
- 1. Once you push your code, if all tests pass, you'll get a green badge :trophy:
-
 ## Instructions
 
 Fork it, clone it, bop it, twist it!
