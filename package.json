@@ -4,7 +4,7 @@
   "description": "",
   "main": "challenges.js",
   "scripts": {
-    "test": "jest --bail --runInBand --testSequencer=./test/testSequencer.js",
+    "test": "jest",
     "test:all": "jest --runInBand",
     "test:levelUp": "jest ./test/levelUp.test.js",
     "test:copyPaste": "jest ./test/copyPaste.test.js",
